@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* this is attribut selector */
+/* [satvik]{
+    background-color: gold;
+} */
+ 
+[satvik="tanisha"]{
+    background-color: darkmagenta;
+}
+
+
+li{
+    font-weight: 700;
+}
+
+.html{
+    color: rgb(24, 11, 206);
+}
+
+.css{
+    color: lightcoral;
+}
+.css:hover{
+    text-align: center;
+    transition: ease-in;
+    transition-delay: 5000ms;
+}
+.js{
+    color: skyblue;
+}
+.rs{
+    color: darkcyan;
+}
+.tl{
+    color: blueviolet;
+}

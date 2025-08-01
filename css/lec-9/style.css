@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+p{
+    color: white;
+    text-decoration: underline;
+    font-weight: 200;
+    text-decoration: none;
+    
+}

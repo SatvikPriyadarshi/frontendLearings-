@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.html{
+    background-color: burlywood;
+}
+
+/* .html.html.html{
+   in this way we can increasee the specicity o the ele 
+} */
+
+
+li{
+    background-color: green;
+}
+li{
+    background-color: orange;
+}
+li{
+    background-color: blue;
+}
